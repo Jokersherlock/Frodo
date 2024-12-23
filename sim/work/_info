@@ -1,0 +1,92 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/work/modelsim/examples
+T_opt
+!s110 1733470741
+V`FW_5]8lX8zUMfF1dl;oV1
+04 14 4 work tb_adder_frodo fast 0
+=1-744ca1dfcc05-6752aa11-205-19d8
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+R0
+vADDER_FRODO
+!s110 1733470982
+!i10b 1
+!s100 ^hA4aII`1_=G_f5LSVbal1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[zB<255RGicCRHXZodfAm2
+Z3 dF:/project/Frodo/sim
+w1733469817
+8F:/project/Frodo/rtl/adder_frodo.V
+FF:/project/Frodo/rtl/adder_frodo.V
+!i122 3
+L0 6 502
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1733470982.000000
+!s107 F:/project/Frodo/rtl/adder_frodo.V|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Frodo/rtl/adder_frodo.V|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@d@d@e@r_@f@r@o@d@o
+vFULL_ADDER
+Z7 !s110 1733470983
+!i10b 1
+!s100 52dSM?5F`d10CgTc9PjJR1
+R2
+Ig4gS@7nP=5fhZdXDOYDie3
+R3
+w1733121842
+8F:/project/Frodo/rtl/full_adder.v
+FF:/project/Frodo/rtl/full_adder.v
+!i122 4
+L0 2 12
+R4
+R5
+r1
+!s85 0
+31
+Z8 !s108 1733470983.000000
+!s107 F:/project/Frodo/rtl/full_adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Frodo/rtl/full_adder.v|
+!i113 0
+R6
+R1
+n@f@u@l@l_@a@d@d@e@r
+vtb_adder_frodo
+R7
+!i10b 1
+!s100 L?Pa[9IV`W>Hbi3EFoQM81
+R2
+IfA`SgLXnEWJ>WU4G6EQY^1
+R3
+w1733470940
+8F:/project/Frodo/sim/tb_adder_frodo.v
+FF:/project/Frodo/sim/tb_adder_frodo.v
+!i122 5
+L0 3 109
+R4
+R5
+r1
+!s85 0
+31
+R8
+!s107 F:/project/Frodo/sim/tb_adder_frodo.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Frodo/sim/tb_adder_frodo.v|
+!i113 0
+R6
+R1
